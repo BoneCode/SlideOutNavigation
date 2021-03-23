@@ -5,6 +5,7 @@ body {
   display: -ms-grid;
   display: grid;
   place-content: center;
+  background-color: #f39c71;
 }
 
 header {
