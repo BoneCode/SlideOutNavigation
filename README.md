@@ -15,6 +15,6 @@ SVGBox is an API for webicons that was used to implement the icons in the naviga
 [Youtube]
 
 
-   [Slide Out Navigation]: <http://127.0.0.1:5500/index.html/>
+   [Slide Out Navigation]: <http://127.0.0.1:5500/index.html#/>
    [SVGBox]: <https://svgbox.net/iconsets/>
    [Youtube]: <https://www.youtube.com/watch?v=n4_s0DpiHjQ&list=PL0lNJEnwfVVNU3Jf-B4VHtAA71XvDiqre&index=2/>
