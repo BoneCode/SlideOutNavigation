@@ -31,10 +31,11 @@
         let toggle=false;
         
         tl.to('.activator',{
-          background:'#150000',
+          background:'#150000',//color after click
           borderRadius:'5em 0 0 5em',
           stagger:0.05,
         })
+
         tl.to('nav',{
           clipPath:'ellipse(100% 100% at 50% 50%)'
         },"-=.5");
@@ -43,6 +44,7 @@
           opacity:1,
           transform:'translateX(0)'
         })
+        
         tl.pause();
         card.addEventListener('click',()=>{
           toggle=!toggle;
