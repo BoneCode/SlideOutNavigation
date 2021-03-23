@@ -8,6 +8,9 @@ GSAP is a JavaScript library for building high-performance animations that work 
 SVGBox is an API for webicons that was used to implement the icons in the navigation bar. "Including icons is harder than it should be. SVGBox allows you to add icons to your project by using simple tags. The idea behind the service is that including icons should be as simple as copy and paste."
 [SVGBox]
 
+# How I learned to implement this project:
+
 
 
    [SVGBox]: <https://svgbox.net/iconsets/>
+   [Youtube]: <https://www.youtube.com/watch?v=n4_s0DpiHjQ&list=PL0lNJEnwfVVNU3Jf-B4VHtAA71XvDiqre&index=2/>
